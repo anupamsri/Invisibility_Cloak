@@ -23,13 +23,13 @@ This project aims to emulate an invisibility cloak like in Harry Potter.
 
 2) Run invisiblecloacode.py & get away from the screan so that it can record the area. 
 
-3)Now come in front of the screen when the window pop out on your desktop.
+3) Now come in front of the screen when the window pop out on your desktop.
 
-4)Grab a red cloth and Let the magic begin !!
+4) Grab a red cloth and Let the magic begin !!
 
 5) Congratulations!! You are now a wizard!!
 
-6)Press q to quit on any of the open camera windows.
+6) Press q to quit on any of the open camera windows.
 
 
 ## Now Lets see the code:
