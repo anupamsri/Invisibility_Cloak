@@ -11,5 +11,6 @@ LETS TRY :0
 * numpy
 * time
 
-![alt-text](https://giphy.com/gifs/fADgaoX8gUp6tYWvQ7)
+![alt-text](https://media.giphy.com/media/fADgaoX8gUp6tYWvQ7/giphy.gif)
 
+![alt-text](https://media.giphy.com/media/AiFEL848a091rJW8GY/giphy.gif)
